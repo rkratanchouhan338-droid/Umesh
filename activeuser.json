@@ -1,8 +1,8 @@
 [
     {
         "device_id": "ebd5436d3f4a8ca6",
-        "username": "UMESH2962",
-        "password": "29620000",
+        "username": "umesh",
+        "password": "2962",
         "expirydate": "25-06-2026",
         "Allowoffline": true
     },
@@ -10,7 +10,7 @@
         "device_id": "device456",
         "username": "user2",
         "password": "pass456",
-        "expirydate": "15-06-2025",
+        "expirydate": "31-06-2026",
         "Allowoffline": false
     }
 ]
