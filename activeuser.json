@@ -3,8 +3,8 @@
         "device_id": "ebd5436d3f4a8ca6",
         "username": "umesh",
         "password": "2962",
-        "expirydate": "23-06-2026",
-        "Allowoffline": true
+        "expirydate": "23-06-2025",
+        "Allowoffline": false
     },
     {
         "device_id": "device456",
